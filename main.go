@@ -27,7 +27,7 @@ const (
         INDEX = "around"
         TYPE = "post"
         DISTANCE = "200km"
-        ES_URL = "http://130.211.229.67:9200"
+        ES_URL = "http://35.202.216.248:9200"
 
  )
 
